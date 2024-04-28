@@ -22,3 +22,16 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# 例 登録時のJSON Body
+
+後々Swaggerを導入したい
+
+{
+  "book": {
+    "isbn_code": "isbn3",
+    "title": "Title3",
+    "category_id": 1
+  }
+}
