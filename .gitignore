@@ -26,4 +26,7 @@ backend.byebug_history
 # Ignore master key for decrypting credentials and more.
 backend/config/master.key
 
+backend/vendor/
+backend/.DS_Store
+
 frontend/react-app/node_modules/
